@@ -1,0 +1,51 @@
+Solar energy sector has outperformed the broader clean energy sector over the past year, suggesting a focus on solar investments.
+NVIDIA has outperformed Qualcomm over the past year, indicating potential growth in GPU and AI-related technologies.
+iShares Core S&P Mid-Cap ETF (IJH) has outperformed the iShares Core S&P Small-Cap ETF (IJR) over the past year, indicating a potential preference for mid-cap stocks over small-cap stocks.
+iShares MSCI EAFE ETF (EFA) has outperformed the iShares MSCI Emerging Markets ETF (EEM) over the past year, suggesting a potential preference for developed market equities over emerging market equities.
+First Trust Dow Jones Internet Index Fund (FDN) has outperformed the First Trust Cloud Computing ETF (SKYY) over the past year, suggesting a potential preference for internet-focused stocks over cloud computing stocks.
+Communication Services Select Sector SPDR Fund (XLC) has outperformed the Real Estate Select Sector SPDR Fund (XLRE) over the past year, indicating a potential preference for communication services stocks over real estate stocks.
+iShares Russell 1000 Growth ETF (IWF) has outperformed the iShares Russell 1000 Value ETF (IWD) over the past year, suggesting a potential preference for growth stocks over value stocks.
+Disney has underperformed Netflix over the past year, which may indicate a preference for streaming platforms with more diverse content offerings.
+Johnson & Johnson has outperformed Pfizer over the past year, potentially signaling higher demand for its diversified healthcare product portfolio.
+Shopify has outperformed Square over the past year, indicating a potential preference for e-commerce platforms over payment processors.
+Advanced Micro Devices has outperformed Intel over the past year, suggesting a potential preference for AMD's processors and related technologies.
+Consumer Discretionary Select Sector SPDR Fund has outperformed the Consumer Staples Select Sector SPDR Fund over the past year, suggesting that investors might be more interested in cyclical consumer stocks.
+Swiss Franc has outperformed the Japanese Yen over the past year, suggesting a potential preference for the Swiss currency over the Japanese currency.
+US Dollar Index Bullish Fund has outperformed the Japanese Yen over the past year, suggesting a potential preference for the US Dollar over the Japanese currency.
+Tesla has outperformed NIO over the past year, suggesting a potential preference for Tesla's electric vehicles and related technologies.
+Amazon has outperformed Alibaba over the past year, suggesting that investors might favor Amazon's e-commerce and cloud computing services.
+NextEra Energy has outperformed the Utilities Select Sector SPDR Fund over the past year, indicating a potential preference for renewable energy utility companies.
+Copper has outperformed aluminum and nickel over the past year, indicating a potential preference for copper in the metals market.
+Financial Select Sector SPDR Fund has outperformed the Utilities Select Sector SPDR Fund over the past year, suggesting a potential preference for financial stocks over utilities.
+NextEra Energy has outperformed Enphase Energy over the past year, suggesting possible preference for utility-scale renewable energy investments.
+Swiss Franc has outperformed the US Dollar over the past year, suggesting a potential preference for the Swiss currency over the US currency.
+iRobot has outperformed Virgin Galactic over the past year, indicating a potential preference for consumer robotics over space tourism.
+Qualcomm has outperformed Nokia over the past year, suggesting a potential preference for Qualcomm's semiconductor and telecommunications equipment.
+Solar ETF has outperformed the Energy Select Sector SPDR Fund over the past year, indicating a potential preference for solar energy investments over the broader energy sector.
+iShares Europe ETF (IEV) has outperformed the iShares MSCI EAFE ETF (EFA) over the past year, indicating a potential preference for European equities over the broader developed markets.
+VanEck Vectors Oil Services ETF (OIH) has outperformed the SPDR S&P Oil & Gas Exploration & Production ETF (XOP) over the past year, indicating a potential preference for oil services stocks over oil exploration and production stocks.
+iShares U.S. Aerospace & Defense ETF (ITA) has outperformed the SPDR S&P Aerospace & Defense ETF (XAR) over the past year, suggesting a potential preference for aerospace and defense stocks.
+ETFMG Alternative Harvest ETF (MJ) has outperformed the AdvisorShares Pure Cannabis ETF (YOLO) over the past year, indicating a potential preference for diversified exposure to the cannabis industry.
+iShares ESG Aware MSCI USA ETF (ESGU) has outperformed the iShares MSCI USA ESG Select ETF (SUSA) over the past year, suggesting a potential preference for ESG-aware investments.
+SPDR S&P Pharmaceuticals ETF (XPH) has outperformed the iShares U.S. Pharmaceuticals ETF (IHE) over the past year, suggesting a potential preference for pharmaceutical industry investments.
+Vanguard Consumer Discretionary ETF (VCR) has outperformed the Vanguard Consumer Staples ETF (VDC) over the past year, suggesting a potential preference for consumer discretionary stocks over consumer staples stocks.
+VanEck Vectors Gold Miners ETF (GDX) has outperformed the VanEck Vectors Junior Gold Miners ETF (GDXJ) over the past year, indicating a potential preference for larger gold mining companies over smaller, more speculative ones.
+iShares Transportation Average ETF (IYT) has outperformed the SPDR S&P Transportation ETF (XTN) over the past year, indicating a potential preference for the more established transportation index.
+iShares Core MSCI EAFE ETF (IEFA) has outperformed the Vanguard FTSE Developed Markets ETF (VEA) over the past year, indicating a potential preference for the MSCI EAFE index over the FTSE Developed Markets index.
+Communication Services Select Sector SPDR Fund (XLC) has outperformed the iShares U.S. Telecommunications ETF (IYZ) over the past year, suggesting a potential preference for a broader communication services sector exposure.
+VanEck Vectors Video Gaming and eSports ETF (ESPO) has outperformed the Roundhill BITKRAFT Esports & Digital Entertainment ETF (NERD) over the past year, indicating a potential preference for video gaming and eSports stocks with a more concentrated portfolio.
+Renaissance IPO ETF (IPO) has outperformed the First Trust US Equity Opportunities ETF (FPX) over the past year, suggesting a potential preference for newly public companies.
+iShares Global REIT ETF (REET) has outperformed the Vanguard Global ex-U.S. Real Estate ETF (VNQI) over the past year, indicating a potential preference for global real estate exposure that includes the U.S. market.
+iShares MSCI Germany ETF (EWG) has outperformed the iShares MSCI United Kingdom ETF (EWU) over the past year, suggesting a potential preference for German equities over UK equities among G7 countries.
+iShares MSCI Japan ETF (EWJ) has outperformed the iShares MSCI Canada ETF (EWC) over the past year, indicating a potential preference for Japanese equities over Canadian equities among G7 countries.
+Invesco DB Commodity Index Tracking Fund (DBC) has outperformed the iShares S&P GSCI Commodity-Indexed Trust (GSG) over the past year, indicating a potential preference for a broader range of commodities exposure.
+Inflation has remained relatively stable over the past year, which may provide a favorable economic environment for consumers and investors.
+The unemployment rate is below 6%, indicating a healthier labor market and potential opportunities for consumer spending and economic growth.
+GDP has grown, but at a slow pace, indicating a potentially sluggish economy.
+Interest rates are high, which may reduce borrowing and investment but lead to higher returns on fixed-income assets.
+Housing starts have increased over the past year, which may indicate a strengthening housing market.
+The S&P 500 has increased over the past year, which may indicate a strengthening stock market.
+Retail sales have increased over the past year, which may indicate a stronger consumer spending environment.
+The trade balance is negative, indicating that the United States imports more than it exports, which may have implications for the economy and exchange rates.
+Inflation expectations are high, which may have implications for monetary policy and financial markets.
+The federal government has run a surplus, which may have implications for fiscal policy and the economy.
